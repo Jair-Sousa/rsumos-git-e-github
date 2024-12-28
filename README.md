@@ -7,3 +7,6 @@ git e github do curso version de codigo com git e github
 [Documentação GIT](https://docs.github.com/)
 
 ## resumo das aulas
+
+aula 01
+aula 02
